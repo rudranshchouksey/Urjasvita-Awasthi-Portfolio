@@ -41,16 +41,12 @@ const App = () => {
         </div>
         <div className="w-full grid grid-cols-1 lg:grid-cols-3 mt-12">
             <p className="text-texlight text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Sapiente, necessitatibus? Nihil voluptates quaerat repudiandae pariatur. 
-              Molestias, harum corrupti. Dolorem provident cupiditate laborum distinctio 
-              atque nam inventore quia eaque! Sequi, ea!
+              Let's work together
+              Tell me more about your project.
+              
             </p>
             <p className="text-texlight text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Sapiente, necessitatibus? Nihil voluptates quaerat repudiandae pariatur. 
-              Molestias, harum corrupti. Dolorem provident cupiditate laborum distinctio 
-              atque nam inventore quia eaque! Sequi, ea!
+              Let's chat Drop me a line: urjasvitaawasthi@gmail.com
             </p>
             <div className="w-full flex flex-col items-center justify-center gap-3">
               <p className="text-texlight text-center">

@@ -6,12 +6,12 @@ import { addDoc, collection } from "firebase/firestore";
 import { db } from "../config/firebase.config"
 
 const Contact = () => {
-  const[data , setData]=useState({
-    firstName: "",
-    lastName: "",
-    email: "",
-    message: "",
-  })
+  const [data, setData] = useState({
+    firstName: '',
+    lastName: '',
+    email: '',
+    message: ''
+  });
 
   const [alert, setAlert] = useState({
     isAlert : false,
@@ -20,10 +20,12 @@ const Contact = () => {
   })
 
   const handleTextChange = (e) => {
-    const {name, value} = e.target 
-    
-    setData((prevData) => ({...prevData, [name]: value}))
-  }
+    const { name, value } = e.target;
+    setData((prevData) => ({
+      ...prevData,
+      [name]: value,
+    }));
+  };
 
   const sendMessage = async () => {
     if(data.email === "" || data.email === null){

@@ -27,29 +27,31 @@ const Skills = () => {
 
 
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            Project Management: Proficient in managing project scope, timelines, and budgets to ensure successful delivery.
+            UI/UX Design: Skilled in wireframing, prototyping, and visual design using tools like Figma and Photoshop.
+            Communication: Excellent interpersonal skills for maintaining clear communication with clients and stakeholders
           </p>
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            Technical Proficiency: Strong command of Microsoft Office Suite (Excel, Word, PowerPoint) and Jira for effective project tracking.
+            Problem-solving: Adept at identifying risks and implementing solutions to enhance team performance.
           </p>
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            Collaboration: Experience working with diverse teams to foster creativity and innovation in project execution.
+            My diverse skill set allows me to adapt quickly to new challenges while maintaining a focus on delivering high-quality outcomes. 
+            I am always eager to learn and grow in my professional journey.
+          </p>
+          <p className="text-texlight text-base tracking-wide text-justify">
+            
           </p>
         </div>
 
         <div className="w-full flex flex-col gap-4 items-center justify-center px-8">
-          <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-          <SkillCard skill={"CSS 3"} percentage={"75%"} color={"#008FFF"} />
-          <SkillCard skill={"Javascript"} percentage={"85%"} color={"#FFB900"} move={true}/>
-          <SkillCard skill={"Node Js"} percentage={"80%"} color={"#14D800"} />
-          <SkillCard skill={"React & NextJs"} percentage={"90%"} color={"#00FFF3"} move={true}/>
-          <SkillCard skill={"Mongo DB & Firebase"} percentage={"75%"} color={"#FFE400"} />
+          <SkillCard skill={"Figma"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
+          <SkillCard skill={"PhotoShop"} percentage={"80%"} color={"#008FFF"} />
+          <SkillCard skill={"Unity"} percentage={"95%"} color={"#FFB900"} move={true}/>
+          <SkillCard skill={"3ds max"} percentage={"85%"} color={"#14D800"} />
+          <SkillCard skill={"Project Management"} percentage={"95%"} color={"#00FFF3"} move={true}/>
+          <SkillCard skill={"Microsoft Office Suite"} percentage={"80%"} color={"#FFE400"} />
         </div>
 
       </div>

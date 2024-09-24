@@ -21,10 +21,7 @@ const Home = () => {
           </h2>
 
           <p className="text-base text-texlight mt-6 text-center lg:text-left">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam corrupti, velit 
-            sequi 
-            at obcaecati, et similique dolor cupiditate veritatis eum est officiis accusantium.
-            Exercitationem, expedita architecto deleniti quos itaque nesciunt.
+          As a passionate UI/UX designer with a background in civil engineering and project management, I'm dedicated to creating digital experiences that are both visually appealing and user-friendly. With a keen eye for detail and a strong understanding of user behavior, I strive to deliver exceptional design solutions that meet the needs of our clients.
           </p>
         
 

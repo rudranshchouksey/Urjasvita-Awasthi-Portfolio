@@ -29,19 +29,19 @@ const About = () => {
 
         <div className="w-full px-8 flex flex-col gap-4 items-start justify-start">
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            I'm Urjasvita Awasthi, an aspiring UI/UX Designer with a passion for creating intuitive and user-centered interfaces. 
+            While I'm currently pursuing an MBA to further enhance my project management and leadership skills, 
+            my design journey began through personal projects focused on wireframing, prototyping, and visual design.
           </p>
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            My background in civil engineering, combined with over 2 years of experience in project coordination and delivery, 
+            has equipped me with strong collaboration and project management skills. I'm a quick learner, 
+            eager to leverage my engineering background to design thoughtfully and solve complex design problems.
           </p>
           <p className="text-texlight text-base tracking-wide text-justify">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quae cupiditate nostrum eaque, 
-            dicta explicabo perferendis voluptatem omnis maiores rem voluptatum non odit vitae, 
-            labore ipsum? Doloribus incidunt quis necessitatibus.
+            Outside of design, I find joy in playing sports and expressing myself creatively through painting. 
+            When I'm not glued to Figma or sketching out ideas, you might find me on the field or lost 
+            in the world of colors on canvas.
           </p>
         </div>
       </div>
